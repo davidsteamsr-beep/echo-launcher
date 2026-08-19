@@ -1,5 +1,10 @@
 {
   "url": "https://1f8b3f10d21702.lhr.life",
   "gpsApi": "https://1f8b3f10d21702.lhr.life",
-  "updated": "2026-08-19T00:30:26Z"
+  "lat": 48.744383333333325,
+  "lon": 44.51521666666666,
+  "online": true,
+  "age_s": 0,
+  "speed_kmh": -3.5188,
+  "updated": "2026-08-19T00:30:39Z"
 }
